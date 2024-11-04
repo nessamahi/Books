@@ -33,4 +33,12 @@ Books about Suceess
 
 
 Books about SWE
-1.
+1. 
+
+Books and articles about writing Features/Engineering Doc
+1. https://stackoverflow.blog/2020/04/06/a-practical-guide-to-writing-technical-specs/
+2. https://document360.com/blog/software-requirements-document/
+3. https://expertbeacon.com/how-to-write-a-good-software-design-doc-expert-guide-for-developers/#google_vignette
+4. https://slite.com/learn/engineering-documentation
+5. https://www.invensislearning.com/blog/features-in-agile-methodology/
+6. User Story Mapping - Jeff Patton
